@@ -1,6 +1,0 @@
-D:\СКФУ\2 КУРС\Технологии программирования\LW_10\MatrixLib\bin\Debug\MatrixLib.dll
-D:\СКФУ\2 КУРС\Технологии программирования\LW_10\MatrixLib\bin\Debug\MatrixLib.pdb
-D:\СКФУ\2 КУРС\Технологии программирования\LW_10\MatrixLib\obj\Debug\MatrixLib.csproj.CoreCompileInputs.cache
-D:\СКФУ\2 КУРС\Технологии программирования\LW_10\MatrixLib\obj\Debug\MatrixLib.dll
-D:\СКФУ\2 КУРС\Технологии программирования\LW_10\MatrixLib\obj\Debug\MatrixLib.pdb
-D:\СКФУ\2 КУРС\Технологии программирования\LW_10\MatrixLib\obj\Debug\MatrixLib.csprojAssemblyReference.cache
