@@ -79,13 +79,13 @@ namespace LW__15
                         j += 2;
                     }
 
-                    labelForU.Text = String.Format("U = {0:0.000}", 1 + U);
+                    labelForU.Text = String.Format("U = {0:0.000}", 1 - U);
                 }
                                 
                 if (txtChooseFolder.Text != "")
                 {
                     string file = Path.Combine(txtChooseFolder.Text, "LW15_Result.txt");
-                    File.WriteAllText(file, Convert.ToString(U));
+                    File.WriteAllText(file, Convert.ToString(1 - U));
                 }
             }
             catch
