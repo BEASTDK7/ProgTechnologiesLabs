@@ -43,7 +43,7 @@ namespace LW__13
                     for (int i = 1; i <= Qnt; i++)
                     {
                         factorial *= i + 1;
-                        Z = -Math.Pow(-p, i + 1) / factorial;
+                        Z += -Math.Pow(-p, i + 1) / factorial;
                     }
                 }
                 else
